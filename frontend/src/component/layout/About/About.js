@@ -26,7 +26,7 @@ const About = () => {
               Visit Instagram
             </Button>
             <span>
-              This is a sample wesbite made by @Krishan & Mohit. Only with the
+              This is a sample wesbite made by @Krishan . Only with the
               purpose to learn MERN Stack .
             </span>
           </div>

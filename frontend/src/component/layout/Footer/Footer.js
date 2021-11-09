@@ -17,13 +17,13 @@ const Footer = () => {
         <h1>ECOMMERCE.</h1>
         <p>High Quality is our first priority</p>
 
-        <p>Copyrights 2021 &copy; Krishan Sorout & Mohit Dagar</p>
+        <p>Copyrights 2021 &copy; Krishan Sorout </p>
       </div>
 
       <div className="rightFooter">
         <h4>Follow Us</h4>
         <a href="http://instagram.com/krishan_sorout_21">Instagram</a>
-        <a href="http://instagram.com/m0hit.22">Youtube</a>
+        <a href="http://instagram.com/krishan_sorout_21">Youtube</a>
         <a href="http://instagram.com/krishan_sorout_21">Facebook</a>
       </div>
     </footer>
