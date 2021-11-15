@@ -69,7 +69,7 @@ function App() {
 
   // this is for anyone not able to right click to our website.
 
-  //window.addEventListener("contextmenu", (e) => e.preventDefault());
+  window.addEventListener("contextmenu", (e) => e.preventDefault());
 
   return (
     <Router>

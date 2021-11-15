@@ -18,7 +18,7 @@ const About = () => {
           <div>
             <Avatar
               style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src="https://res.cloudinary.com/krishansorout/image/upload/v1636267767/Aboutpic/kkpic_wf4cct.jpg"
+              src="https://res.cloudinary.com/krishansorout/image/upload/v1636957052/Aboutpic/ecompic_heah0o.jpg"
               alt="Founder"
             />
             <Typography>Krishan Sorout</Typography>
@@ -26,20 +26,20 @@ const About = () => {
               Visit Instagram
             </Button>
             <span>
-              This is a sample wesbite made by @Krishan . Only with the
+              This is a sample wesbite made by @Krishan & Mohit Dagar. Only with the
               purpose to learn MERN Stack .
             </span>
           </div>
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Brands</Typography>
             <a
-              href="http://instagram.com/krishan_sorout_21"
+              href="http://instagram.com/m0hit.22"
               target="blank"
             >
               <YouTubeIcon className="youtubeSvgIcon" />
             </a>
 
-            <a href="http://instagram.com/krishan_sorout_21" target="blank">
+            <a href="http://instagram.com/m0hit.22" target="blank">
               <InstagramIcon className="instagramSvgIcon" />
             </a>
           </div>
